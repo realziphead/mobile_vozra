@@ -1,3 +1,3 @@
-urlpatterns = ["/", "/contacts", "/faq", "/home", "/about"
+urlpatterns = ["/", "/contacts", "/faq", "/home", "/about", "/more"
 
 ]
